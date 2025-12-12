@@ -1,25 +1,26 @@
 ---
 layout: cv
-title: Peter Boss' CV
+title: Peter Boss's CV
 ---
 
 
 # Peter Boss
 Rexburg, ID  
 peter.t.boss@gmail.com • 208-757-7891  
-[LinkedIn](https://www.linkedin.com/in/peter-t-boss)
+LinkedIn: https://www.linkedin.com/in/peter-t-boss
+Portfolio: https://pboss58.github.io/pboss58.hithub.io/
 
 ---
 
 ## Professional Summary
 Motivated Supply Chain Management student with hands-on experience in production operations, data analysis, and workflow optimization. Strong analytical background supported by a 4.0 GPA and advanced skills in Excel, SQL, and process improvement. Proven ability to lead teams, resolve operational issues, and enhance efficiency in fast-paced environments.
+
 ---
 
 ## Education
 
 ### **Brigham Young University–Idaho**  
-*Bachelor of Science in Supply Chain Management (STEM)*  
-Minor: Data Science  
+*Bachelor of Science in Supply Chain Management (STEM); Minor: Data Science* 
 **Jan 2023 – Dec 2026 • Rexburg, ID**
 
 - Overall GPA: **4.0/4.0**  
@@ -93,145 +94,6 @@ Minor: Data Science
 - Volunteer roles in church and community organizations  
 - Full Tuition Academic Scholarship (5 semesters)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Peter Boss
-Physicist, Mathematician, Cambridge professor.
-
-_peter.t.boss@gmail.com_
-_208-757-7891_
-_www.linkedin.com/in/peter-t-boss_
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`Jan 2023 – Dec 2026`
-__Brigham Young University-Idaho__
-- Bachelor of Science in Supply Chain Management (STEM); Minor in Data Science
-- Overall GPA: 4.0/4.0
-- Relevant Coursework: Data Science Programing, SQL For Analysts
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-Brigham Young University–Idaho — Bachelor of Science in Supply Chain Management (STEM)
-Minor: Data Science
-Jan 2023 – Dec 2026 • Rexburg, ID
-
-Overall GPA: 4.0/4.0
-
-Relevant Coursework: Global Sourcing, Logistics Management, Operations Analysis & Modeling
-
-Full Tuition Academic Scholarship Recipient (5 semesters)
-
-Executive Officer, Supply Chain Management Society
-
-Professional Experience
-Production Leadership Intern
-
-The Occasions Group (Taylor Corp.) — Rexburg, ID
-Sep 2025 – Dec 2025
-
-Led shipping staff in resolving workflow bottlenecks and maintaining operational continuity across 20+ brands, ensuring consistent order fulfillment.
-
-Implemented 5S at shipping stations and utilized Novatus Office and PJM systems to streamline item retrieval and address ~30 order issues weekly.
-
-Trained and mentored 12 shipping personnel and 4 printing team members, improving performance and reinforcing operational standards to support on-time order completion.
-
-Spreadsheet Analysis Teaching Assistant
-
-BYU–Idaho Finance Department — Rexburg, ID
-Jan 2025 – Jul 2025
-
-Graded 1,200+ advanced Excel projects involving pivot tables, VBA, data analysis functions, dashboards, and 50+ technical skills, ensuring accuracy and consistency.
-
-Collaborated with faculty and TA team to optimize grading workflow and meet deadlines efficiently.
-
-Developed a comprehensive Excel shortcuts reference resource used to improve student speed, accuracy, and competency.
-
-__Assistant Coordinator__
-_For the Strength of Youth Conferences (FSY, LLC) — Provo, UT_
-May 2024 – Jul 2024
-- Oversaw daily program operations for 4,900 participants over seven weeks; trained and supported 50+ counselors.
-- Directed a large-scale variety show project, managing a team of 6 and coordinating auditions, selection, and performance of 13 acts.
-- Standardized procedures, resolved operational bottlenecks, and coached staff to improve consistency, engagement, and program effectiveness.
-
-__Counselor__
-_For the Strength of Youth Conferences (FSY, LLC) — Provo, UT_
-May 2023 – Aug 2023
-- Led interactive learning activities for 150+ youth across three states, ensuring smooth program execution and high engagement
-- Coordinated with co-counselors to streamline daily planning for 15+ activities, improving operational reliability and participant experience
-- Troubleshot logistical challenges and adapted activities to ensure program objectives were effectively met
-
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
