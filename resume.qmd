@@ -7,8 +7,8 @@ title: Peter Boss's CV
 # Peter Boss
 Rexburg, ID  
 peter.t.boss@gmail.com • 208-757-7891  
-LinkedIn: https://www.linkedin.com/in/peter-t-boss  
-Portfolio: https://pboss58.github.io/pboss58.hithub.io/
+LinkedIn: [linkedin.com/in/peter-t-boss](https://www.linkedin.com/in/peter-t-boss)  
+Portfolio: [pboss58.github.io/](https://pboss58.github.io/pboss58.hithub.io/)
 
 ---
 
@@ -21,8 +21,8 @@ Motivated Supply Chain Management student with hands-on experience in production
 
 ### **Brigham Young University–Idaho**  
 *Bachelor of Science in Supply Chain Management (STEM); Minor: Data Science*  
+*Rexburg, ID*  
 **Jan 2023 – Dec 2026**  
-Rexburg, ID
 
 - Overall GPA: **4.0/4.0**  
 - Relevant Coursework: Global Sourcing, Logistics Management, Operations Analysis & Modeling  
@@ -35,9 +35,9 @@ Rexburg, ID
 *The Occasions Group (Taylor Corp.) — Rexburg, ID*  
 **Sep 2025 – Dec 2025**
 
-- Led shipping staff in resolving workflow bottlenecks and maintaining operational continuity across 20+ brands, ensuring consistent order fulfillment.  
-- Implemented 5S at shipping stations and used Novatus Office and PJM systems to streamline item retrieval and address ~30 order issues weekly.  
-- Trained and mentored 12 shipping personnel and 4 printing team members, reinforcing operational standards and improving performance.
+- Led shipping staff in resolving workflow bottlenecks and maintaining operational continuity across 20+ brands, ensuring consistent order fulfillment  
+- Implemented 5S at shipping stations and leveraged Novatus Office and PJM systems to streamline item retrieval and address ~30 order issues weekly  
+- Trained and mentored 12 shipping personnel and 4 printing team members, reinforcing operational standards and improving performance
 
 ---
 
@@ -45,9 +45,9 @@ Rexburg, ID
 *BYU–Idaho Finance Department — Rexburg, ID*  
 **Jan 2025 – Jul 2025**
 
-- Graded 1,200+ advanced Excel projects involving pivot tables, VBA, dashboards, and 50+ technical functions, ensuring accuracy and consistency.  
-- Collaborated with faculty and fellow TAs to optimize grading workflow and reliably meet tight deadlines.  
-- Developed a comprehensive Excel shortcut reference resource to help students increase speed, accuracy, and competency.
+- Graded 1,200+ advanced Excel projects involving PivotTables, VBA, dashboards, and 50+ technical functions, ensuring accuracy and consistency  
+- Collaborated with faculty and fellow TAs to optimize grading workflow and reliably meet tight deadlines  
+- Developed a comprehensive Excel shortcut reference resource to help students increase speed, accuracy, and competency
 
 ---
 
@@ -55,9 +55,9 @@ Rexburg, ID
 *For the Strength of Youth Conferences (FSY, LLC) — Provo, UT*  
 **May 2024 – Jul 2024**
 
-- Oversaw daily program operations for 4,900 participants over seven weeks; trained and supported 50+ counselors.  
-- Directed a large-scale variety show, managing a team of 6 and coordinating auditions, selecting 13 acts, and executing a one-hour performance.  
-- Standardized procedures, resolved operational bottlenecks, and coached staff to improve engagement and program effectiveness.
+- Oversaw daily program operations for 4,900 participants over seven weeks; trained and supported 50+ counselors  
+- Directed a large-scale variety show, managing a team of 6 and coordinating auditions, selecting 13 acts, and executing a one-hour performance  
+- Standardized procedures, resolved operational bottlenecks, and coached staff to improve engagement and program effectiveness
 
 ---
 
@@ -65,9 +65,9 @@ Rexburg, ID
 *For the Strength of Youth Conferences (FSY, LLC) — Provo, UT*  
 **May 2023 – Aug 2023**
 
-- Led engaging learning activities for 150+ youth across three states, ensuring smooth program delivery.  
-- Collaborated with co-counselors to streamline planning for 15+ daily activities, improving operational reliability and participant experience.  
-- Resolved logistics and participation challenges by adapting activities and implementing on-the-spot solutions.
+- Led engaging learning activities for 150+ youth across three states, ensuring smooth program delivery  
+- Collaborated with co-counselors to streamline planning for 15+ daily activities, improving operational reliability and participant experience  
+- Resolved logistics and participation challenges by adapting activities and implementing on-the-spot solutions
 
 ---
 
