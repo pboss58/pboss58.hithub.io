@@ -432,19 +432,29 @@
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I’m a Supply Chain Management student at BYU–Idaho with a strong interest in operations, process improvement, and data-driven decision making. I enjoy working at the intersection of people, processes, and data to improve efficiency and reliability.\nI’ve gained hands-on experience through roles in production leadership and as a Spreadsheet Analysis Teaching Assistant, where I worked with Excel, SQL, and operational systems to support workflow improvements and decision-making in fast-paced environments.\nI’m particularly interested in supply chain analyst, operations, and continuous improvement roles that allow me to apply analytical tools while collaborating closely with cross-functional teams. I value clear communication, accountability, and continuous learning.\nThis portfolio highlights selected projects that demonstrate my technical skills and problem-solving approach, with an emphasis on practical, real-world applications.",
     "crumbs": [
       "Data Cleansing"
     ]
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "cleansing.html#about-me",
+    "href": "cleansing.html#about-me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I’m a Supply Chain Management student at BYU–Idaho with a strong interest in operations, process improvement, and data-driven decision making. I enjoy working at the intersection of people, processes, and data to improve efficiency and reliability.\nI’ve gained hands-on experience through roles in production leadership and as a Spreadsheet Analysis Teaching Assistant, where I worked with Excel, SQL, and operational systems to support workflow improvements and decision-making in fast-paced environments.\nI’m particularly interested in supply chain analyst, operations, and continuous improvement roles that allow me to apply analytical tools while collaborating closely with cross-functional teams. I value clear communication, accountability, and continuous learning.\nThis portfolio highlights selected projects that demonstrate my technical skills and problem-solving approach, with an emphasis on practical, real-world applications.",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#about-this-portfolio",
+    "href": "cleansing.html#about-this-portfolio",
+    "title": "About Me",
+    "section": "About This Portfolio",
+    "text": "About This Portfolio\nThe projects featured here focus on applied analytics, process improvement, and operational decision-making. Each project includes context, methodology, and key takeaways to illustrate both the technical tools used and the thinking behind the solution.\n\nMarkDown Basics",
     "crumbs": [
       "Data Cleansing"
     ]
