@@ -7,7 +7,7 @@ title: Peter Boss's CV
 # Peter Boss
 Rexburg, ID  
 peter.t.boss@gmail.com • 208-757-7891  
-LinkedIn: https://www.linkedin.com/in/peter-t-boss
+LinkedIn: https://www.linkedin.com/in/peter-t-boss  
 Portfolio: https://pboss58.github.io/pboss58.hithub.io/
 
 ---
@@ -20,13 +20,12 @@ Motivated Supply Chain Management student with hands-on experience in production
 ## Education
 
 ### **Brigham Young University–Idaho**  
-*Bachelor of Science in Supply Chain Management (STEM); Minor: Data Science* 
-**Jan 2023 – Dec 2026 • Rexburg, ID**
+*Bachelor of Science in Supply Chain Management (STEM); Minor: Data Science*  
+**Jan 2023 – Dec 2026**  
+Rexburg, ID
 
 - Overall GPA: **4.0/4.0**  
 - Relevant Coursework: Global Sourcing, Logistics Management, Operations Analysis & Modeling  
-- Full Tuition Academic Scholarship Recipient (5 semesters)  
-- Executive Officer, Supply Chain Management Society
 
 ---
 
